@@ -23,8 +23,8 @@
 
 | | |
 |---|---|
-| **User** | Me: a working Technical PM publishing a weekly series about my move from nursing to tech to product |
-| **Problem** | One episode means a script, voiceover, video, Shorts, thumbnails, a podcast and posts on 6 platforms. Doing it by hand takes most of a weekend. |
+| **User** | Me: a working Technical PM publishing a video and podcast series about my move from nursing to tech to product |
+| **Problem** | One episode means a script, voiceover, video, Shorts, thumbnails, a podcast and posts on 6 platforms. Doing it all by hand alongside a full-time job is slow and inconsistent. |
 | **Solution** | An AI agent (a Claude skill) runs 8 stages from interview to cross-linked release. I answer questions, record my voice and approve. |
 | **Proof** | 5 human approval gates. The agent never publishes on its own, and the gates have already caught a misleading line before it went live. |
 | **Outcome** | Career Pivot Ep. 3 shipped to YouTube, Substack, Spotify and Apple Podcasts, every platform linked to the others |
