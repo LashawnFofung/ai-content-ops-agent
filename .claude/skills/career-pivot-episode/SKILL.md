@@ -64,7 +64,7 @@ Add (pause) marks. Scene plan table: #, scene, on-screen visual, voiceover part.
 - Short covers 1080×1920.
 - Community post image 1080×1080 (YouTube crops posts square).
 - Substack header for the top of the post: 16:9, 1456×816 (LF badge, "CAREER PIVOT · PODCAST EP. N" pill, waveform, avatar on mint rings, episode title). Never use a 1.91:1 image as the post cover; Substack crops it.
-- Substack social preview: 1220×630, set in the post's Settings → Social preview image. Same design reflowed for the wide frame: title on the left, avatar on the right, all text inside the frame and clear of the rings. Also save a 1200×630 copy for other link previews.
+- Substack social preview: 1220×630, set in the post's Settings → Social preview image. Same design reflowed for the wide frame: title on the left, avatar on the right, at least 120 px of empty space on the left and right (Substack crops link previews to 1200×675, trimming about 55 px from each side), all text clear of the rings, and check the cropped version before uploading. Also save a 1200×630 copy for other link previews.
 - Square social image 1080×1080 for LinkedIn feed posts.
 - Podcast episode art: reuse the Career Pivot show art (podcast_art_url from the previous episode).
 - Add finished covers to the brand assets Covers group.
