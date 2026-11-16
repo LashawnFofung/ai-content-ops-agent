@@ -8,6 +8,7 @@
 [![Career Pivot Playlist](https://img.shields.io/badge/Career_Pivot-Playlist-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLba1tur-5-iU)
 [![Latest Episode](https://img.shields.io/badge/Latest-Ep._3-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/-xgSDyY_rVA)
 [![Podcast](https://img.shields.io/badge/Podcast-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum)
+[![Write-up](https://img.shields.io/badge/Write--up-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://lashawnfofung.substack.com/p/i-built-an-ai-agent-to-run-my-content)
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=flat&logo=claude&logoColor=white)](https://claude.com/claude-code)
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/AI-Portfolio)
 
@@ -151,6 +152,10 @@ python pipeline/vo_align.py    # → vo/01_final.wav … with word timings added
 - [x] Career Pivot Episode agent (Ep. 3 shipped Nov 2026)
 - [ ] Track time saved and gate catches per episode
 - [ ] n8n agents for Case Reps: Case Generator, Scorer, Scorecard Updater, voice Mock Interviewer
+
+## Read the Write-up
+
+📝 [I Built an AI Agent to Run My Content. Here's What It Taught Me About Product Management.](https://lashawnfofung.substack.com/p/i-built-an-ai-agent-to-run-my-content) — the story behind this build: the problem, the 5 approval gates, what broke, and 4 product management lessons.
 
 ## Related Repos
 
