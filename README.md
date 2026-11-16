@@ -8,6 +8,7 @@
 [![Career Pivot Playlist](https://img.shields.io/badge/Career_Pivot-Playlist-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLba1tur-5-iU)
 [![Latest Episode](https://img.shields.io/badge/Latest-Ep._3-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/-xgSDyY_rVA)
 [![Podcast](https://img.shields.io/badge/Podcast-Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum)
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=flat&logo=claude&logoColor=white)](https://claude.com/claude-code)
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/AI-Portfolio)
 
 </div>
