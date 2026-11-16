@@ -73,7 +73,7 @@ Add (pause) marks. Scene plan table: #, scene, on-screen visual, voiceover part.
 - Description: first line "Full write-ups and my work: https://lashawnfofung.substack.com/p/start-here", hook, what you'll learn (5 lessons), action, previous-episode link, chapters (from aligned timings), next-episode tease, motto, 5 hashtags.
 - Shorts descriptions: one line + "Full episode: <long-form link>" + hashtags; set Related video to the long-form.
 - Community posts: launch post (day of) and a poll (2 days later; text only, 4 options).
-- Schedule: long-form goes live at 12:00 PM or 7:00 PM ET, never 12:00 AM. Through Dec 14, 2026, use the slot in the Brand & Content Plan's go-live time test; after the Dec 21 analytics review, use the winning time. Share on LinkedIn within an hour of go-live. Shorts on later days in the week after; add all rows to the assets record "Ready to upload" tab.
+- Schedule: long-form goes live at 12:00 PM or 7:00 PM ET, never 12:00 AM. Through Dec 14, 2026, use the slot in the Brand & Content Plan's go-live time test; after the Dec 21 analytics review, use the winning time. Post on LinkedIn only outside work hours: within an hour of a 7:00 PM go-live, or at 5:15 PM ET for a 12:00 PM go-live; never schedule LinkedIn posts during the workday. Shorts on later days in the week after; add all rows to the assets record "Ready to upload" tab.
 
 **Gate 4:** Lashawn uploads to YouTube and sends the video link.
 
