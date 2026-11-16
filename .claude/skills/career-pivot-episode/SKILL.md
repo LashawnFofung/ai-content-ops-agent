@@ -63,7 +63,9 @@ Add (pause) marks. Scene plan table: #, scene, on-screen visual, voiceover part.
 - YouTube thumbnail 1280×720 (main) + a second variant for Test & Compare.
 - Short covers 1080×1920.
 - Community post image 1080×1080 (YouTube crops posts square).
-- Substack header 2400×1260 (LF badge, "CAREER PIVOT · PODCAST EP. N" pill, waveform, avatar on mint rings, episode title).
+- Substack header for the top of the post: 16:9, 1456×816 (LF badge, "CAREER PIVOT · PODCAST EP. N" pill, waveform, avatar on mint rings, episode title). Never use a 1.91:1 image as the post cover; Substack crops it.
+- Substack social preview: 1220×630, set in the post's Settings → Social preview image. Same design reflowed for the wide frame: title on the left, avatar on the right, all text inside the frame and clear of the rings. Also save a 1200×630 copy for other link previews.
+- Square social image 1080×1080 for LinkedIn feed posts.
 - Podcast episode art: reuse the Career Pivot show art (podcast_art_url from the previous episode).
 - Add finished covers to the brand assets Covers group.
 
@@ -79,7 +81,7 @@ Add (pause) marks. Scene plan table: #, scene, on-screen visual, voiceover part.
 
 ## Stage 7 — Package from YouTube to other platforms
 
-1. **Substack (feeds Spotify + Apple Podcasts):** create a draft via the Substack API in the browser: type "podcast", draft_section_id = the Career Pivot section ID, season "1", episode "N", podcast_episode_type "full", podcast_art_url = show art, title "Career Pivot Ep. N: …", subtitle under 120 characters. Body like Ep. 2/3: hook, "In this episode" bullets, bridge paragraph, action, motto, next episode, ▶ YouTube link, ⏮ previous episode, Episode notes, comment prompt. Lashawn uploads the .mp4 in the editor (Substack extracts the audio for the RSS feed) and adds the header image. Ask whether to email subscribers before publishing.
+1. **Substack (feeds Spotify + Apple Podcasts):** create a draft via the Substack API in the browser: type "podcast", draft_section_id = the Career Pivot section ID, season "1", episode "N", podcast_episode_type "full", podcast_art_url = show art, title "Career Pivot Ep. N: …", subtitle under 120 characters. Body like Ep. 2/3: hook, "In this episode" bullets, bridge paragraph, action, motto, next episode, ▶ YouTube link, ⏮ previous episode, Episode notes, comment prompt. Lashawn uploads the .mp4 in the editor (Substack extracts the audio for the RSS feed) adds the 16:9 header image at the top of the post, and sets the 1220×630 social preview image in Settings → Social preview before publishing. Ask whether to email subscribers before publishing.
 2. **Spotify and Apple Podcasts:** distributed by the Substack podcast RSS feed; verify the episode appears within a day. Provide a 600-character episode description in case a platform needs it.
 3. **LinkedIn:** a post in her best-performing format (one-line hook, the result, then how), green/orange image, link in the first comment, no current-employer specifics. Optionally a carousel of the 5 lessons.
 
