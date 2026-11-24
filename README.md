@@ -166,6 +166,6 @@ python pipeline/vo_align.py    # → vo/01_final.wav … with word timings added
 
 **Lashawn Fofung** · Technical Product Manager · [LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · [Substack](https://lashawnfofung.substack.com/p/start-here) · [YouTube](https://www.youtube.com/playlist?list=PLba1tur-5-iU)
 
-*Don't just do it. Learn it. Apply it. Grow it. Repeat.*
+*Learn. Apply. Grow. Repeat.*
 
 </div>
