@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="104" viewBox="0 0 420 104" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="419" height="103" rx="10" fill="#FFFFFF" stroke="#D1D9E0"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h1v103h-1a10 10 0 0 1-10-10z" fill="#F4724F"/>
+<rect x="24" y="20" width="64" height="64" rx="8" fill="#EAF6F0"/>
+<g transform="translate(24,20)" fill="none" stroke="#18342B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12h18l8 8v32H20z"/><path d="M38 12v8h8M25 28h16M25 34h16M25 40h11"/></g>
+<text x="104" y="38" font-size="12" font-weight="700" letter-spacing="0.5" fill="#F4724F">STAGE 02</text>
+<text x="104" y="58" font-size="16" font-weight="700" fill="#1F2328">Script And Scene Plan</text>
+<text x="104" y="77" font-size="12.5" fill="#59636E">Hook, five points and a close</text>
+<rect x="346.4" y="16" width="57.599999999999994" height="20" rx="10" fill="#FDE8E1"/>
+<text x="375.2" y="30" font-size="11" font-weight="700" text-anchor="middle" fill="#F4724F">Gate 2</text>
+</svg>

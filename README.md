@@ -1,7 +1,6 @@
-<div align="center">
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/readme-header-dark.svg"><img src="assets/readme/readme-header-light.svg" width="880" alt="AI Content Ops Agent: one voice recording in, a long-form video, two Shorts, a podcast episode and posts for six platforms out."></picture></p>
 
-# 🎙️ AI Content Ops Agent
-### One voice recording → a video, Shorts, a podcast episode and posts across 6 platforms, with a human approving every step
+<div align="center">
 
 **AI Product Management** · Personal build · Career Pivot series · Nov 2026
 
@@ -13,6 +12,29 @@
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/AI-Portfolio)
 
 </div>
+
+## Quick Tour
+
+Each card opens the stage’s notes. Coral cards stop at a human approval gate; green cards run on their own.
+
+<table>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-01-interview-dark.svg"><img src="assets/readme/card-01-interview-light.svg" width="420" alt="Interview: Five questions, answered in my own words. Gate 1."></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-02-script-and-scene-plan-dark.svg"><img src="assets/readme/card-02-script-and-scene-plan-light.svg" width="420" alt="Script And Scene Plan: Hook, five points and a close. Gate 2."></picture></td>
+</tr>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-03-voiceover-dark.svg"><img src="assets/readme/card-03-voiceover-light.svg" width="420" alt="Voiceover: My real voice, cleaned and timed. Automated."></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-04-video-build-dark.svg"><img src="assets/readme/card-04-video-build-light.svg" width="420" alt="Video Build: Long-form plus two Shorts. Gate 3."></picture></td>
+</tr>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-05-thumbnails-and-images-dark.svg"><img src="assets/readme/card-05-thumbnails-and-images-light.svg" width="420" alt="Thumbnails And Images: Thumbnails, covers, headers. Automated."></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-06-publishing-kit-dark.svg"><img src="assets/readme/card-06-publishing-kit-light.svg" width="420" alt="Publishing Kit: Titles, descriptions, chapters. Gate 4."></picture></td>
+</tr>
+<tr>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-07-package-to-platforms-dark.svg"><img src="assets/readme/card-07-package-to-platforms-light.svg" width="420" alt="Package To Platforms: Substack, Spotify, Apple, LinkedIn. Gate 5."></picture></td>
+<td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-08-cross-link-and-log-dark.svg"><img src="assets/readme/card-08-cross-link-and-log-light.svg" width="420" alt="Cross-Link And Log: Every platform links to the others. Automated."></picture></td>
+</tr>
+</table>
 
 ---
 
